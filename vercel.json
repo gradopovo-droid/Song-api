@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "functions": {
+    "api/search.js": {
+      "maxDuration": 10
+    },
+    "api/download.js": {
+      "maxDuration": 30
+    }
+  }
+}
